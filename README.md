@@ -1,5 +1,7 @@
+![Banner](banner_github.png)
+
 # 💫 About Me:
-Hey there! I'm Mazahir Haider<br>I'm a Full Stack Web Developer with a passion for crafting seamless, efficient, and visually stunning digital experiences. <br>I specialize in building modern, user-friendly applications that merge creativity with functionality.<br><br>💡 What I bring to the table:<br>Scalable and high-performance web solutions<br>Intuitive and visually appealing UI/UX<br>Problem-solving with a keen eye for detail<br><br>I love turning ideas into reality through clean, maintainable code. Let’s build something amazing together! <br><br>
+Hey there! I'm Mazahir Haider<br>I'm a Full Stack Web Developer with a passion for crafting seamless, efficient, and visually stunning digital experiences. <br>I specialize in building modern, user-friendly applications that merge creativity with functionality.<br><br>💡 What I bring to the table:<br>Scalable and high-performance web solutions<br>Intuitive and visually appealing UI/UX<br>Problem-solving with a keen eye for detail<br><br>I love turning ideas into reality through clean, maintainable code. Let's build something amazing together! <br><br>
 
 
 ## 🌐 Socials:
